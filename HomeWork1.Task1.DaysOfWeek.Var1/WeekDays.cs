@@ -1,6 +1,6 @@
 ﻿namespace HomeWork1.Task1.DaysOfWeek
 {
-    public enum WeekDays
+    enum WeekDays
     {
         Monday = 1,
         Tuesday,

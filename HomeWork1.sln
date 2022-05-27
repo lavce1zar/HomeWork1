@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task1.DaysOfWeek.Var1", "HomeWork1.Task1.DaysOfWeek\HomeWork1.Task1.DaysOfWeek.Var1.csproj", "{2A7617CD-B84B-4CBB-88B8-7C7AE025D85B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task1.DaysOfWeek.Var1", "HomeWork1.Task1.DaysOfWeek.Var1\HomeWork1.Task1.DaysOfWeek.Var1.csproj", "{2A7617CD-B84B-4CBB-88B8-7C7AE025D85B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task1.DaysOfWeek.Var3", "HomeWork1.Task1.DaysOfWeek.Var3\HomeWork1.Task1.DaysOfWeek.Var3.csproj", "{2B0650A9-833B-4FE9-BB2D-23FA92E607EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task1.DaysOfWeek.Var2", "HomeWork1.Task1.DaysOfWeek.Var2\HomeWork1.Task1.DaysOfWeek.Var2.csproj", "{F3E47886-62B9-4597-94D1-C590A3B0900D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task2.MultiplicationTable.Var1", "HomeWork1.Task2.MultiplicationTable\HomeWork1.Task2.MultiplicationTable.Var1.csproj", "{2E1F218F-26A6-4724-8466-D1DE25FA52D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task2.MultiplicationTable.Var1", "HomeWork1.Task2.MultiplicationTable.Var1\HomeWork1.Task2.MultiplicationTable.Var1.csproj", "{2E1F218F-26A6-4724-8466-D1DE25FA52D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task2.MultiplicationTable.Var2", "ConsoleApp1\HomeWork1.Task2.MultiplicationTable.Var2.csproj", "{EE8D9A46-4DDC-4563-B4DA-ACB07324B9D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1.Task2.MultiplicationTable.Var2", "HomeWork1.Task2.MultiplicationTable.Var2\HomeWork1.Task2.MultiplicationTable.Var2.csproj", "{EE8D9A46-4DDC-4563-B4DA-ACB07324B9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
