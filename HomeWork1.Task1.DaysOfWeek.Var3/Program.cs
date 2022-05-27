@@ -4,7 +4,6 @@ namespace HomeWork1.Task1.DaysOfWeek.Var3
 {
     internal class Program
     {
-
         //shortest one, with system.DayOfWeek enum and without switch and method
         static void Main(string[] args)
         {
